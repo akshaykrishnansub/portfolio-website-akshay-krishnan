@@ -10,8 +10,8 @@ useEffect(()=>{
   return (
     <div className="bg-slate-950 flex min-h-screen">
       <Sidebar />
-      <main className="flex-1 overflow-x-auto lg:m-24 sm:mt-16 sm:pt-10 lg:p-16">
-        <h1 className="text-white text-6xl text-center font-bold">Akshay <span className="text-cyan-500">Krishnan</span></h1>
+      <main className="flex-1 overflow-x-auto lg:m-24 sm:pt-10 lg:p-16">
+        <h1 className="text-white text-6xl text-center font-bold mt-16">Akshay <span className="text-cyan-500">Krishnan</span></h1>
         <div className="mt-8 flex justify-center items-center">
           <p className="text-gray-400 font-semibold sm:text-xl text-center">Full Stack Developer  ·  Front End Developer  ·  Backend Developer  ·  React.js Developer  ·  Next.js Developer</p>
         </div>
