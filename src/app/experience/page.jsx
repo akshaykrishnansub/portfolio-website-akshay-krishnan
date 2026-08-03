@@ -7,7 +7,9 @@ const Experience = () => {
         document.title="My Experience"
     },[])
   return (
-    <Sidebar />
+    <div className='bg-slate-950 flex min-h-screen'>
+      <Sidebar />
+    </div>
   )
 }
 

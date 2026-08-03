@@ -7,7 +7,9 @@ const Projects = () => {
         document.title="My Projects"
     },[])
   return (
-    <Sidebar />
+    <div className='bg-slate-950 min-h-screen flex'>
+      <Sidebar />
+    </div>
   )
 }
 

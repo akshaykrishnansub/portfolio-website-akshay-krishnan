@@ -11,7 +11,9 @@ const About = () => {
     <div className='bg-slate-950 flex min-h-screen'>
       <Sidebar />
       <main className='flex-1 overflow-x-auto lg:m-16 sm:pt-10 lg:p-16'>
-        <h1 className='text-cyan-400 text-4xl font-bold text-center mt-16'>ABOUT ME</h1>
+        <div className='text-center mb-8'>
+          <h1 className='text-cyan-400 text-4xl font-bold mt-16'>ABOUT ME</h1>
+        </div>
         <div className='text-center sm:text-sm lg:text-2xl'>
           <p className='text-gray-500 mt-4'>I'm a Full Stack Developer with a background in Data Operations and Engineering Management who made a deliberate transition into software development to pursue a career in building modern web applications.
 
