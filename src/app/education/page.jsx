@@ -26,6 +26,9 @@ const Education = () => {
           <div className='mt-4'>
             <span className='text-xl text-cyan-400 font-bold'>Percentage:{" "}<p className='text-white font-medium'>73.21</p></span>
           </div>
+          <div className='mt-4'>
+            <span className='text-xl text-cyan-400 font-bold'>Year of Graduation:{" "}<p className='text-white font-medium'>2016</p></span>
+          </div>
         </div>
       </main>
     </div>
