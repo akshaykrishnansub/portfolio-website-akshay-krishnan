@@ -15,7 +15,6 @@ const Sidebar = () => {
             <Link href="/projects" className='block text-2xl text-white px-8 py-2 m-3 hover:bg-cyan-600 rounded-lg'>🚀 Projects</Link>
             <Link href="/experience" className='block text-2xl text-white px-8 py-2 m-3 hover:bg-cyan-600 rounded-lg'>💼 Experience</Link>
             <Link href="/education" className='block text-2xl text-white px-8 py-2 m-3 hover:bg-cyan-600 rounded-lg'>🎓 Education</Link>
-            <Link href="/resume" className='block text-2xl text-white px-8 py-2 m-3 hover:bg-cyan-600 rounded-lg'>📄 Resume</Link>
             <Link href="/contact" className='block text-2xl text-white px-8 py-2 m-3 hover:bg-cyan-600 rounded-lg'>✉ Contact</Link>
         </nav>
     </aside>
