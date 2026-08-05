@@ -6,7 +6,7 @@ The portfolio is designed to provide a concise overview of my technical expertis
 
 ## 🚀 Live Portfolio
 
-[Visit My Portfolio](YOUR_PORTFOLIO_URL)
+[Visit My Portfolio](https://portfolio-website-akshay-krishnan.vercel.app/)
 
 ## 👨‍💻 About
 
