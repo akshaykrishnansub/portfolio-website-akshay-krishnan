@@ -1,36 +1,111 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Akshay Krishnan — Full Stack Developer Portfolio
 
-## Getting Started
+A responsive personal portfolio website showcasing my skills, projects, experience, education, and journey as a Full Stack Developer.
 
-First, run the development server:
+The portfolio is designed to provide a concise overview of my technical expertise and the projects I have built while transitioning into software development.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Live Portfolio
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[Visit My Portfolio](YOUR_PORTFOLIO_URL)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 👨‍💻 About
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+I'm a Full Stack Developer with a background in Data Operations who made a deliberate transition into software development.
 
-## Learn More
+I build scalable, secure, and responsive web applications using modern JavaScript technologies. My work covers both frontend and backend development, including responsive interfaces, REST APIs, authentication, authorization, database design, file uploads, and application deployment.
 
-To learn more about Next.js, take a look at the following resources:
+## ✨ Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Responsive portfolio design
+- Mobile-friendly sidebar navigation
+- About section
+- Technical skills and expertise
+- Professional experience timeline
+- Featured projects
+- Education
+- GitHub and LinkedIn links
+- Project GitHub repositories
+- Live project demos
+- Contact section
+- Responsive design for desktop, tablet, and mobile devices
+- Dark-themed UI
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Tech Stack
 
-## Deploy on Vercel
+### Frontend
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- React.js
+- Next.js
+- JavaScript
+- HTML5
+- Tailwind CSS
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Development Tools
+
+- Git
+- GitHub
+- VS Code
+
+## 📂 Portfolio Sections
+
+### Home
+
+A brief introduction with links to my projects, GitHub, and LinkedIn profiles.
+
+### About
+
+An overview of my professional background, career transition, development journey, and engineering approach.
+
+### Skills
+
+A breakdown of my frontend, backend, database, and other technical skills.
+
+### Experience
+
+My professional experience and development journey presented as a timeline.
+
+### Projects
+
+A collection of my full-stack projects, including:
+
+- AgroChain — Smart Agriculture Marketplace
+- MediTrack — Patient Appointments and Records Portal
+- SkillShare — Community Learning Platform
+- IdeaSpark — Brainstorming Board
+- Blogifier — Full Stack Blog Platform
+
+Each project includes its description, technologies used, source code, and live demo where available.
+
+### Education
+
+Details about my academic background and educational qualifications.
+
+### Contact
+
+A way for recruiters, developers, and other professionals to get in touch with me.
+
+## 📁 Project Structure
+
+```text
+portfolio/
+│
+├── app/
+│   ├── about/
+│   ├── skills/
+│   ├── projects/
+│   ├── experience/
+│   ├── education/
+│   ├── contact/
+│   └── page.jsx
+│
+├── components/
+│   └── Sidebar/
+│       └── Sidebar.jsx
+│
+├── public/
+│   └── ...
+│
+├── package.json
+├── package-lock.json
+├── next.config.js
+└── README.md
