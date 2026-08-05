@@ -10,7 +10,7 @@ const Projects = () => {
   return (
     <div className='bg-slate-950 min-h-screen flex'>
       <Sidebar />
-      <main className='flex-1 overflow-x-auto lg:m-16 sm:pt-16 lg:p-16'>
+      <main className='flex-1 overflow-x-auto lg:ml-52 sm:pt-16 lg:p-16'>
         <div className='text-center mb-8 mt-16'>
           <h1 className='text-xl text-cyan-400 font-bold'>PROOF OF WORK</h1>
           <h1 className='text-4xl text-white font-bold mt-2 m-8'>Projects</h1>

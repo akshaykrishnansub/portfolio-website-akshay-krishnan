@@ -10,7 +10,7 @@ const About = () => {
   return (
     <div className='bg-slate-950 flex min-h-screen'>
       <Sidebar />
-      <main className='flex-1 overflow-x-auto lg:m-16 sm:pt-10 lg:p-16'>
+      <main className='flex-1 overflow-x-auto lg:ml-52 sm:pt-10 lg:p-16'>
         <div className='text-center mb-8'>
           <h1 className='text-cyan-400 text-4xl font-bold mt-16'>ABOUT ME</h1>
         </div>

@@ -9,7 +9,7 @@ const Skills = () => {
   return (
     <div className='bg-slate-950 flex min-h-screen'>
       <Sidebar />
-      <main className='flex-1 overflow-x-auto lg:m-16 sm:pt-16 lg:p-16'>
+      <main className='flex-1 overflow-x-auto lg:ml-52 sm:pt-16 lg:p-16'>
         <div className='text-center mb-8 mt-16'>
           <h1 className='text-xl font-bold text-cyan-400'>TECHNICAL STACK</h1>
           <h1 className='text-4xl text-white font-bold mt-2 m-8'>Skills & Technologies</h1>
